@@ -12,7 +12,7 @@ We performed nine ablation experiments in order to test the significance of each
 ## Instructions
 
 1. Create a free [Kaggle account](https://www.kaggle.com/account/login)
-2. Access the starter environment [here](https://www.kaggle.com/code/mauragillis19046/ablation-study-starter-environment)
+2. Access the starter environment [here](https://www.kaggle.com/code/mauragillis19046/ablation-study-starter-environment). Select the three dots in the right hand corner, and click "Copy and Edit".
 3. Select File -> Import Notebook -> GitHub and search for this repository
 4. Import the notebook you wish to run. On the right side toolbar, click "Submit" to have the notebook scored with the 'ISIC 2024 – Skin Cancer Detection with 3D-TBP’ metrics.
 5. Wait until the notbook finishes running. It may take up to tweleve hours for experiments where tiles were used.
